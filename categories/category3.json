@@ -1,0 +1,29 @@
+{
+  "category_name": "জীবনী",
+  "books": [
+    {
+      "id": "book9",
+      "title": "বঙ্গবন্ধুর গল্প",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book9.json"
+    },
+    {
+      "id": "book10",
+      "title": "মাদার তেরেসা",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book10.json"
+    },
+    {
+      "id": "book11",
+      "title": "আলবার্ট আইনস্টাইন",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book11.json"
+    },
+    {
+      "id": "book12",
+      "title": "স্টিভ জবস",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book12.json"
+    }
+  ]
+}
