@@ -1,0 +1,11 @@
+{
+  "category_name": "উপন্যাস",
+  "books": [
+    {
+      "id": "book1",
+      "title": "রহস্যময় রাত",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book1.json"
+    }
+  ]
+}
