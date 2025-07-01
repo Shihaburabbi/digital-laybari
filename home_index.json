@@ -1,10 +1,24 @@
-
 {
   "categories": [
     {
       "id": "cat1",
       "name": "উপন্যাস",
       "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/categories/category1.json"
+    },
+    {
+      "id": "cat2",
+      "name": "ইতিহাস",
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/categories/category2.json"
+    },
+    {
+      "id": "cat3",
+      "name": "জীবনী",
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/categories/category3.json"
+    },
+    {
+      "id": "cat4",
+      "name": "বিজ্ঞান কল্পকাহিনি",
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/categories/category4.json"
     }
   ],
   "meta": {
