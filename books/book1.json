@@ -1,0 +1,20 @@
+{
+  "title": "রহস্যময় রাত",
+  "author": "শিহাব",
+  "chapters": [
+    {
+      "chapter_id": "c1",
+      "chapter_title": "অধ্যায় ১",
+      "content": "এটা প্রথম অধ্যায়ের গল্প।"
+    },
+    {
+      "chapter_id": "c2",
+      "chapter_title": "অধ্যায় ২",
+      "content": "এখানে গল্প আরও রহস্যময় হয়ে ওঠে।"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "updated": "2025-07-01"
+  }
+}
