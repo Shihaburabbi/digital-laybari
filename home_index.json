@@ -1,1 +1,14 @@
 
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "উপন্যাস",
+      "url": "https://raw.githubusercontent.com/[your-username]/digital-laybari/main/categories/category1.json"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "last_updated": "2025-07-01"
+  }
+}
