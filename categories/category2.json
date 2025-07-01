@@ -1,0 +1,29 @@
+{
+  "category_name": "ইতিহাস",
+  "books": [
+    {
+      "id": "book5",
+      "title": "মুক্তিযুদ্ধের দিনগুলি",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book5.json"
+    },
+    {
+      "id": "book6",
+      "title": "রাজাদের কাহিনি",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book6.json"
+    },
+    {
+      "id": "book7",
+      "title": "বাংলা আন্দোলন",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book7.json"
+    },
+    {
+      "id": "book8",
+      "title": "পাল ও সেন যুগ",
+      "chapter_count": 2,
+      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book8.json"
+    }
+  ]
+}
