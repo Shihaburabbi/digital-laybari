@@ -1,29 +1,6 @@
 {
   "category_name": "বিজ্ঞান কল্পকাহিনি",
   "books": [
-    {
-      "id": "book13",
-      "title": "গ্রহান্তরের ছায়া",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book13.json"
-    },
-    {
-      "id": "book14",
-      "title": "টাইম ট্রাভেলার",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book14.json"
-    },
-    {
-      "id": "book15",
-      "title": "মহাশূন্য অভিযান",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book15.json"
-    },
-    {
-      "id": "book16",
-      "title": "রোবট বিপ্লব",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book16.json"
-    }
+  
   ]
 }
