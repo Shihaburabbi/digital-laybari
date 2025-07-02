@@ -3,8 +3,9 @@
   "books": [
     {
       "id": "book1",
-      "title": "নদীর গল্প",
-      "chapter_count": 2,
+      "title": "মাসুদ রানা ০১০ – রানা! সাবধান!!",
+      "chapter_count": ১২,
+      "cover": "https://cdn.ebanglalibrary.com/wp-content/uploads/2025/05/Rana-Sabdhan-Masud-Rana-10.jpg.webp",
       "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book1.json"
     }
   ]
