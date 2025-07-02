@@ -1,6 +1,12 @@
 {
   "category_name": "বিজ্ঞান কল্পকাহিনি",
   "books": [
-  
+  {
+      "id": "",
+      "title": "",
+      "chapter_count": "",
+      "cover": "",
+      "url": ""
+    }
   ]
 }
