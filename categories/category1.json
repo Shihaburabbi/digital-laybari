@@ -6,24 +6,6 @@
       "title": "নদীর গল্প",
       "chapter_count": 2,
       "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book1.json"
-    },
-    {
-      "id": "book2",
-      "title": "অন্ধকার ছায়া",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book2.json"
-    },
-    {
-      "id": "book3",
-      "title": "চেনা পথের ধোঁকা",
-      "chapter_count": 2,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book3.json"
-    },
-    {
-      "id": "book4",
-      "title": "নিঃসঙ্গ পথ",
-      "chapter_count": 4,
-      "url": "https://raw.githubusercontent.com/Shihaburabbi/digital-laybari/main/books/book4.json"
     }
   ]
 }
